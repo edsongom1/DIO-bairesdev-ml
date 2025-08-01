@@ -148,7 +148,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 - **Email:** edsgom@gmail.com  
 - **GitHub:** [@edsongom1](https://github.com/edsongom1)  
-- **LinkedIn:** [Edson Gomes](https://linkedin.com/in/edsongomes)  
+- **LinkedIn:** [Edson Gomes](https://linkedin.com/in/edsongom)  
 
 ## 🙏 Agradecimentos
 
